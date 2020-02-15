@@ -5,17 +5,13 @@ sections:
     component: HeroBlock
     type: heroblock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      When Creative and Analytic collides
   - section_id: about
     component: ContentBlock
     type: contentblock
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      I will be honest with you. I stink at writing blogs. I just can't seem to keep on writing. So although this seems like a blog, it's really where all my posts from dev.to will spill their guts out onto. Kinda gross, I know. But this was the only way to motive me to write. The community at Dev.to are awesome! You should come check it out! 
     actions:
       - label: Contact Me
         url: /contact
